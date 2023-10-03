@@ -19,6 +19,6 @@ title: Intro
   : [[SOURCE](https://wiki.python.org/moin/BeginnersGuide/Programmers)]
 
 
-02 Oct
+03 Oct
 : **Lesson 3**{: .label .label-green } **Statistical learning**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture3.pdf)]
