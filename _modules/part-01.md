@@ -22,3 +22,8 @@ title: Intro
 03 Oct
 : **Lesson 3**{: .label .label-green } **Statistical learning**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture3.pdf)]
+
+
+10 Oct
+: **Lesson 4**{: .label .label-green } **What is a Neural Network?**
+  : [[HML](https://www.3blue1brown.com/lessons/neural-networks)][[VIDEO](https://www.youtube.com/watch?v=aircAruvnKk)]
