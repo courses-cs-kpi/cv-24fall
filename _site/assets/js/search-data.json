@@ -71,14 +71,14 @@
   },"10": {
     "doc": "Computer Vision",
     "title": "Computer Vision",
-    "content": "Igor Sikorsky Kyiv Polytechnic Institute, Autumn 2022 . Yuriy P. Kochura Lectures/Practices . iuriy.kochura@gmail.com . Department of Computer Engineering, FICS . When: every Tue at 12:20 PM by Kyiv time BBB Link . This course will introduce you to deep learning approaches that are used in cutting-edge research in computer vision (CV) and provide practical experience: . | Using of neural networks (fully connected and convolutional layers, forward and backward propagation, activation functions, … ) | Training of neural networks (initialization, optimization, regularization, model choice, … ) | . Course Learning Outcomes . | Identify problems where computer vision techniques are applicable. | Apply CV techniques for some classical problems. | . More.. ",
+    "content": "Igor Sikorsky Kyiv Polytechnic Institute, Autumn 2023 . Yuriy P. Kochura Lectures/Practices . iuriy.kochura@gmail.com . Department of Computer Engineering, FICS . When: every Tue at 12:20 PM by Kyiv time BBB Link . This course will introduce you to deep learning approaches that are used in cutting-edge research in computer vision (CV) and provide practical experience: . | Using of neural networks (fully connected and convolutional layers, forward and backward propagation, activation functions, … ) | Training of neural networks (initialization, optimization, regularization, model choice, … ) | . Course Learning Outcomes . | Identify problems where computer vision techniques are applicable. | Apply CV techniques for some classical problems. | . More.. ",
     "url": "/cv-23fall/",
     
     "relUrl": "/"
   },"11": {
     "doc": "Computer Vision",
     "title": "Intro",
-    "content": "19 Sep OverviewDetails 👋 [HML][PDF][VIDEO] . ",
+    "content": "19 Sep OverviewDetails 👋 [HML][PDF] Lesson 1 Introduction to AI [HML][PDF] 26 Sep Lesson 2 Building NNs with Perceptron [HML][PDF] Lab Practice #1 [COLAB][VIDEO] Tutor 📚Python for Programmers [SOURCE] 03 Oct Lesson 3 Statistical learning [HML][PDF] 10 Oct Lesson 4 What is a Neural Network? [HML][VIDEO] Assignment #1 Logistic Regression Deadline: October 20 ",
     "url": "/cv-23fall/#intro",
     
     "relUrl": "/#intro"

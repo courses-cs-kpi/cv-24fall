@@ -28,5 +28,5 @@ title: Intro
 : **Lesson 4**{: .label .label-green } **What is a Neural Network?**
   : [[HML](https://www.3blue1brown.com/lessons/neural-networks)][[VIDEO](https://www.youtube.com/watch?v=aircAruvnKk)]
 
-: **Assignment #1**{: .label .label-purple} [**Logistic Regression**](https://ykochura.github.io/cv-kpi/homeworks/lab1/assig1.pdf)
+: **Assignment #1**{: .label .label-dark} [**Logistic Regression**](https://ykochura.github.io/cv-kpi/homeworks/lab1/assig1.pdf)
   : Deadline: October 20

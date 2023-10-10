@@ -571,6 +571,8 @@ h6, .text-zeta { font-size: 0.6875rem !important; }
 
 .label-red:not(g) { background-color: #e94c4c; }
 
+.label-dark:not(g) { background-color: #386c38; }
+
 .label-yellow:not(g) { color: #44434d; background-color: #f7d12e; }
 
 .btn, summary { display: inline-block; box-sizing: border-box; padding: 0.3em 1em; margin: 0; font-family: inherit; font-size: inherit; font-weight: 500; line-height: 1.5; color: #2c84fa; text-decoration: none; vertical-align: baseline; cursor: pointer; background-color: #302d36; border-width: 0; border-radius: 4px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08); appearance: none; }
