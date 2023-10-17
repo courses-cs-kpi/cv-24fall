@@ -30,3 +30,8 @@ title: Intro
 
 : **Assignment #1**{: .label .label-dark} [**Logistic Regression**](https://ykochura.github.io/cv-kpi/homeworks/lab1/assig1.pdf)
   : Deadline: October 20
+
+
+17 Oct
+: **Lesson 5**{: .label .label-green } **Training neural networks**
+  : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture5.pdf)]
