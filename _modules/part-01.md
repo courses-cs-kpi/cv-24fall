@@ -35,3 +35,7 @@ title: Intro
 17 Oct
 : **Lesson 5**{: .label .label-green } **Training neural networks**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture5.pdf)]
+
+29 Nov
+: **Assignment #2**{: .label .label-dark} [**Getting Started with Deep Learning**](https://ykochura.github.io/cv-kpi/homeworks/lab2/assig2.pdf)
+  : Deadline: December 15
