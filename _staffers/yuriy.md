@@ -10,4 +10,4 @@ lectures: every Tue at 12:20 PM by Kyiv time
 # site: http://roz.kpi.ua/
 ---
 
-[BBB Link](https://bbb.comsys.kpi.ua/b/yur-spb-qnl-jqk){: .btn .btn-outline }
+[BBB Link](https://bbb.ugrid.org/b/yur-spb-qnl-jqk){: .btn .btn-outline }
