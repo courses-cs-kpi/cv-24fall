@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Home
 tagline: Computer Vision
-description: Igor Sikorsky Kyiv Polytechnic Institute,  Autumn 2023
+description: Igor Sikorsky Kyiv Polytechnic Institute,  Autumn 2024
 author: Yuriy Kochura
-baseurl: '/cv-23fall' # the subpath of your site, e.g. /blog
+baseurl: '/cv-24fall' # the subpath of your site, e.g. /blog
 url: 'https://courses-cs-kpi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 

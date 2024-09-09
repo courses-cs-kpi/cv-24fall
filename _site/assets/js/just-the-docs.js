@@ -36,7 +36,7 @@ function initNav() {
   const siteNav = document.getElementById('site-nav');
   const mainHeader = document.getElementById('main-header');
   const menuButton = document.getElementById('menu-button');
-  
+
   disableHeadStyleSheets();
 
   jtd.addEvent(menuButton, 'click', function(e){
@@ -55,15 +55,19 @@ function initNav() {
 }
 
 // The <head> element is assumed to include the following stylesheets:
-// 0. a <link> to /assets/css/just-the-docs-default.css
-// 1. a <link> to /assets/css/just-the-docs-head-nav.css
-// 2. a <style> containing the result of _includes/css/activation.scss.liquid.
-// It also includes any styles provided by users in _includes/head_custom.html.
-// Stylesheet 2 may be missing (compression can remove empty <style> elements)
-// so disableHeadStyleSheet() needs to access it by its id.
+// - a <link> to /assets/css/just-the-docs-head-nav.css,
+//             with id 'jtd-head-nav-stylesheet'
+// - a <style> containing the result of _includes/css/activation.scss.liquid.
+// To avoid relying on the order of stylesheets (which can change with HTML
+// compression, user-added JavaScript, and other side effects), stylesheets
+// are only interacted with via ID
 
 function disableHeadStyleSheets() {
-  document.styleSheets[1].disabled = true;
+  const headNav = document.getElementById('jtd-head-nav-stylesheet');
+  if (headNav) {
+    headNav.disabled = true;
+  }
+
   const activation = document.getElementById('jtd-nav-activation');
   if (activation) {
     activation.disabled = true;
@@ -73,7 +77,7 @@ function disableHeadStyleSheets() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', '/cv-23fall/assets/js/search-data.json', true);
+  request.open('GET', '/cv-24fall/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -452,18 +456,35 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '/cv-23fall/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', '/cv-24fall/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Note: pathname can have a trailing slash on a local jekyll server
 // and not have the slash on GitHub Pages
 
 function navLink() {
-  var href = document.location.pathname;
-  if (href.endsWith('/') && href != '/') {
-    href = href.slice(0, -1);
+  var pathname = document.location.pathname;
+
+  var navLink = document.getElementById('site-nav').querySelector('a[href="' + pathname + '"]');
+  if (navLink) {
+    return navLink;
   }
-  return document.getElementById('site-nav').querySelector('a[href="' + href + '"], a[href="' + href + '/"]');
+
+  // The `permalink` setting may produce navigation links whose `href` ends with `/` or `.html`.
+  // To find these links when `/` is omitted from or added to pathname, or `.html` is omitted:
+
+  if (pathname.endsWith('/') && pathname != '/') {
+    pathname = pathname.slice(0, -1);
+  }
+
+  if (pathname != '/') {
+    navLink = document.getElementById('site-nav').querySelector('a[href="' + pathname + '"], a[href="' + pathname + '/"], a[href="' + pathname + '.html"]');
+    if (navLink) {
+      return navLink;
+    }
+  }
+
+  return null; // avoids `undefined`
 }
 
 // Scroll site-nav to ensure the link to the current page is visible
@@ -471,8 +492,7 @@ function navLink() {
 function scrollNav() {
   const targetLink = navLink();
   if (targetLink) {
-    const rect = targetLink.getBoundingClientRect();
-    document.getElementById('site-nav').scrollBy(0, rect.top - 3*rect.height);
+    targetLink.scrollIntoView({ block: "center" });
     targetLink.removeAttribute('href');
   }
 }
@@ -499,10 +519,12 @@ function activateNav() {
 // Document ready
 
 jtd.onReady(function(){
-  initNav();
+  if (document.getElementById('site-nav')) {
+    initNav();
+    activateNav();
+    scrollNav();
+  }
   initSearch();
-  activateNav();
-  scrollNav();
 });
 
 // Copy button on code

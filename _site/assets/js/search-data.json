@@ -2,84 +2,84 @@
     "doc": "About",
     "title": "Overview",
     "content": " ",
-    "url": "/cv-23fall/about/#overview",
+    "url": "/cv-24fall/about/#overview",
     
     "relUrl": "/about/#overview"
   },"1": {
     "doc": "About",
     "title": "Contents",
     "content": ". | Air raid sirens | Grading | Honor Code | . This course will introduce you to deep learning approaches that are used in cutting-edge research in computer vision (CV) and provide practical experience: . | Using of neural networks (fully connected and convolutional layers, forward and backward propagation, activation functions, … ) | Training of neural networks (initialization, optimization, regularization, model choice, … ) | . Course Learning Outcomes . | Identify problems where computer vision techniques are applicable. | Apply CV techniques for some classical problems. | . Prerequisites . | Mathematics: Knowledge of and ability to use calculus, analytical geometry, linear algebra and probability theory. | Programming: Ability to program in Python. | . Textbooks . | Goodfellow, I., Bengio, Y., &amp; Courville, A. (2016). Deep Learning. MIT press. | Russell, S., &amp; Norvig, P. (2021). Artificial Intelligence: A Modern Approach. | Khan, S., Rahmani, H., Shah, S. A. A., Bennamoun, M., Medioni, G., &amp; Dickinson, S. (2018). A guide to convolutional neural networks for computer vision | . ",
-    "url": "/cv-23fall/about/#contents",
+    "url": "/cv-24fall/about/#contents",
     
     "relUrl": "/about/#contents"
   },"2": {
     "doc": "About",
     "title": "Air raid sirens",
     "content": "‼️ ATTENTION! In case of air raid sirens, please leave the class and proceed to the nearest shelter! . ",
-    "url": "/cv-23fall/about/#air-raid-sirens",
+    "url": "/cv-24fall/about/#air-raid-sirens",
     
     "relUrl": "/about/#air-raid-sirens"
   },"3": {
     "doc": "About",
     "title": "Grading",
     "content": ". | 60% – Programming assignments (15% each) | 40% – Graded test | . Note! The requisition of admission to semester control (Graded test) is Programming assignments ≥ 36% . The Igor Sikorsky Kyiv Polytechnic Institute rating scale: . | A = 95–100 | Excellent | . | B = 85–94 | Very good | . | C = 75–84 | Good | . | D = 65–74 | Satisfactory | . | E = 60–64 | Sufficient | . | F &lt; 60 | Failed | . | Fx &lt; 36 | Not admitted | . | Failure to conform to the academic honesty principles or moral and ethical norms | Banned | . ",
-    "url": "/cv-23fall/about/#grading",
+    "url": "/cv-24fall/about/#grading",
     
     "relUrl": "/about/#grading"
   },"4": {
     "doc": "About",
     "title": "Honor Code",
     "content": " ",
-    "url": "/cv-23fall/about/#honor-code",
+    "url": "/cv-24fall/about/#honor-code",
     
     "relUrl": "/about/#honor-code"
   },"5": {
     "doc": "About",
     "title": "Academic integrity",
     "content": "You may discuss the programming assignments in groups. However, each student must write down their own solutions independently. While taking this course, you are obliged to adhere to the policy and principles of academic integrity defined by the Honor Code of Igor Sikorsky Kyiv Polytechnic Institute (see Part 3) and all of the following rules: . | You must submit solutions, reports or program code that are your own. The usage of solutions or program code that are not your own and presenting them for one’s own work is plagiarism and a serious violation of the basic academic standards. | You must not share your solution code with other students, nor ask others to share their solutions with you. | You must indicate on your submission any assistance you received. | . ",
-    "url": "/cv-23fall/about/#academic-integrity",
+    "url": "/cv-24fall/about/#academic-integrity",
     
     "relUrl": "/about/#academic-integrity"
   },"6": {
     "doc": "About",
     "title": "RULES FOR ETHICAL BEHAVIOR",
     "content": "Rules of ethical behavior of students and employees of the university are defined in the Honor Code of Igor Sikorsky Kyiv Polytechnic Institute (see Part 2). ",
-    "url": "/cv-23fall/about/#rules-for-ethical-behavior",
+    "url": "/cv-24fall/about/#rules-for-ethical-behavior",
     
     "relUrl": "/about/#rules-for-ethical-behavior"
   },"7": {
     "doc": "About",
     "title": "Deadlines for assignments",
     "content": "The teacher sets a deadline for the completion of all types of tasks with the aim of consistent and balanced assimilation of the educational material by students and monitoring of the students’ implementation of individual study plans according to the schedule of the educational process. Submitting completed tasks for verification after the set deadlines is accompanied by penalty points. The deadline for submitting all types of assignments for review is the last computer lab session. You have the opportunity to redo the assignment on retakes in order to improve your current rating. ",
-    "url": "/cv-23fall/about/#deadlines-for-assignments",
+    "url": "/cv-24fall/about/#deadlines-for-assignments",
     
     "relUrl": "/about/#deadlines-for-assignments"
   },"8": {
     "doc": "About",
     "title": "Assessment appeal procedure",
     "content": "If you think your work has been underestimated or overestimated, you may contact the teacher who performed the evaluation and report this with a brief justification (the evaluation will be revised). ",
-    "url": "/cv-23fall/about/#assessment-appeal-procedure",
+    "url": "/cv-24fall/about/#assessment-appeal-procedure",
     
     "relUrl": "/about/#assessment-appeal-procedure"
   },"9": {
     "doc": "About",
     "title": "About",
     "content": " ",
-    "url": "/cv-23fall/about/",
+    "url": "/cv-24fall/about/",
     
     "relUrl": "/about/"
   },"10": {
     "doc": "Computer Vision",
     "title": "Computer Vision",
-    "content": "Igor Sikorsky Kyiv Polytechnic Institute, Autumn 2023 . Yuriy P. Kochura Lectures/Practices . iuriy.kochura@gmail.com . Department of Computer Engineering, FICS . When: every Tue at 12:20 PM by Kyiv time BBB Link . This course will introduce you to deep learning approaches that are used in cutting-edge research in computer vision (CV) and provide practical experience: . | Using of neural networks (fully connected and convolutional layers, forward and backward propagation, activation functions, … ) | Training of neural networks (initialization, optimization, regularization, model choice, … ) | . Course Learning Outcomes . | Identify problems where computer vision techniques are applicable. | Apply CV techniques for some classical problems. | . More.. ",
-    "url": "/cv-23fall/",
+    "content": "Igor Sikorsky Kyiv Polytechnic Institute, Autumn 2024 . Yuriy P. Kochura Lectures/Practices . iuriy.kochura@gmail.com . Department of Computer Engineering, FICS . When: every Tue at 12:20 PM by Kyiv time BBB Link . This course will introduce you to deep learning approaches that are used in cutting-edge research in computer vision (CV) and provide practical experience: . | Using of neural networks (fully connected and convolutional layers, forward and backward propagation, activation functions, … ) | Training of neural networks (initialization, optimization, regularization, model choice, … ) | . Course Learning Outcomes . | Identify problems where computer vision techniques are applicable. | Apply CV techniques for some classical problems. | . More.. ",
+    "url": "/cv-24fall/",
     
     "relUrl": "/"
   },"11": {
     "doc": "Computer Vision",
     "title": "Intro",
-    "content": "19 Sep OverviewDetails 👋 [HML][PDF] Lesson 1 Introduction to AI [HML][PDF] 26 Sep Lesson 2 Building NNs with Perceptron [HML][PDF] Lab Practice #1 [COLAB][VIDEO] Tutor 📚Python for Programmers [SOURCE] 03 Oct Lesson 3 Statistical learning [HML][PDF] 10 Oct Lesson 4 What is a Neural Network? [HML][VIDEO] Assignment #1 Logistic Regression Deadline: October 20 ",
-    "url": "/cv-23fall/#intro",
+    "content": "10 Sep OverviewDetails 👋 [HML][PDF] Lesson 1 Introduction to AI [HML][PDF] ",
+    "url": "/cv-24fall/#intro",
     
     "relUrl": "/#intro"
   }
