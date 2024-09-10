@@ -9,6 +9,13 @@ title: Intro
 : **Lesson 1**{: .label .label-green } **Introduction to AI**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture1.pdf)]
 
+: **Tutor 📚**{: .label .label-red}**Python for Programmers**
+  : [[SOURCE](https://wiki.python.org/moin/BeginnersGuide/Programmers)]
+
+: **Lab 1**{: .label .label-purple} **Data Manipulation with Ndarray**
+  : [[COLAB](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
+
+
 <!-- 26 Sep
 : **Lesson 2**{: .label .label-green } **Building NNs with Perceptron**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture2.pdf)]
