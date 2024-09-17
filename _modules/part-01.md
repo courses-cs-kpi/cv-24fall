@@ -16,17 +16,15 @@ title: Intro
   : [[COLAB](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
 
-<!-- 26 Sep
+17 Sep
 : **Lesson 2**{: .label .label-green } **Building NNs with Perceptron**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture2.pdf)]
-: **Lab**{: .label .label-purple} **Practice #1**
+: **Lab 2**{: .label .label-purple} **An introduction to the numerical python library**
   : [[COLAB](https://drive.google.com/file/d/1fDCyui3GeaJR_3MFQlgNhQLNng2MWAqX/view?usp=sharing)][[VIDEO](https://www.youtube.com/watch?v=8Mpc9ukltVA&list=PLuqhl4iqeAZZAArMx52S7kIFRwT74Td66&index=9)] 
 
-: **Tutor 📚**{: .label .label-red}**Python for Programmers**
-  : [[SOURCE](https://wiki.python.org/moin/BeginnersGuide/Programmers)]
 
 
-03 Oct
+<!-- 03 Oct
 : **Lesson 3**{: .label .label-green } **Statistical learning**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture3.pdf)]
 
