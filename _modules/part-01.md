@@ -31,7 +31,7 @@ title: Intro
   : [[COLAB](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/figures/code/lecture3_plots.ipynb)]
 
 
-<!-- 10 Oct
+1 Oct
 : **Lesson 4**{: .label .label-green } **What is a Neural Network?**
   : [[HML](https://www.3blue1brown.com/lessons/neural-networks)][[VIDEO](https://www.youtube.com/watch?v=aircAruvnKk)]
 
@@ -39,10 +39,11 @@ title: Intro
   : Deadline: October 20
 
 
-17 Oct
+<!-- 17 Oct
 : **Lesson 5**{: .label .label-green } **Training neural networks**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture5.pdf)]
 
 29 Nov
 : **Assignment #2**{: .label .label-dark} [**Getting Started with Deep Learning**](https://ykochura.github.io/cv-kpi/homeworks/lab2/assig2.pdf)
-  : Deadline: December 15 -->
+  : Deadline: December 15
+ -->
