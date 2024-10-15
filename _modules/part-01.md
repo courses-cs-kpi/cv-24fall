@@ -43,6 +43,11 @@ title: Intro
 : **Lesson 5**{: .label .label-green } **Training neural networks**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture5.pdf)]
 
+
+15 Oct
+: **Tutor 📚**{: .label .label-red}**Training neural networks**
+  : [[HML](https://www.3blue1brown.com/lessons/gradient-descent)][[VIDEO](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=2s)]
+
 <!-- 29 Nov
 : **Assignment #2**{: .label .label-dark} [**Getting Started with Deep Learning**](https://ykochura.github.io/cv-kpi/homeworks/lab2/assig2.pdf)
   : Deadline: December 15 -->
