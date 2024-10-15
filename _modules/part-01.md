@@ -45,7 +45,7 @@ title: Intro
 
 
 15 Oct
-: **Tutor 📚**{: .label .label-red}**Training neural networks**
+: **Tutor 📚**{: .label .label-red}**Gradient Descent: How Neural Networks Learn**
   : [[HML](https://www.3blue1brown.com/lessons/gradient-descent)][[VIDEO](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=2s)]
 
 <!-- 29 Nov
