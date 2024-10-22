@@ -52,5 +52,5 @@ title: Intro
 : **Lesson 6**{: .label .label-green } **Computer vision**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture6.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture6.pdf)]
 
-<!-- : **Assignment #2**{: .label .label-dark} [**Getting Started with Deep Learning**](https://ykochura.github.io/cv-kpi/homeworks/lab2/assig2.pdf)
-  : Deadline: December 15 --> -->
+: **Assignment #2-3**{: .label .label-dark} [**Getting Started with Deep Learning**](https://ykochura.github.io/cv-kpi/homeworks/assig2-3.pdf)
+  : Deadline: November 15 
