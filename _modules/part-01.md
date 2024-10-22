@@ -48,6 +48,9 @@ title: Intro
 : **Tutor 📚**{: .label .label-red}**Gradient Descent: How Neural Networks Learn**
   : [[HML](https://www.3blue1brown.com/lessons/gradient-descent)][[VIDEO](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=2s)]
 
-<!-- 29 Nov
-: **Assignment #2**{: .label .label-dark} [**Getting Started with Deep Learning**](https://ykochura.github.io/cv-kpi/homeworks/lab2/assig2.pdf)
-  : Deadline: December 15 -->
+22 Oct
+: **Lesson 6**{: .label .label-green } **Computer vision**
+  : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture6.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture6.pdf)]
+
+<!-- : **Assignment #2**{: .label .label-dark} [**Getting Started with Deep Learning**](https://ykochura.github.io/cv-kpi/homeworks/lab2/assig2.pdf)
+  : Deadline: December 15 --> -->
