@@ -60,3 +60,6 @@ title: Intro
 : **Lesson 7**{: .label .label-green } **Evaluation Metrics for CV**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture7.pdf)]
 
+: **Tutor 📚**{: .label .label-red}**Evaluation Metrics**
+  : [[KAGGLE](https://www.kaggle.com/code/kyuriy/evaluation-metrics-for-multi-class-classification)]
+
