@@ -54,3 +54,9 @@ title: Intro
 
 : **Assignment #2-3**{: .label .label-dark} [**Getting Started with Deep Learning**](https://ykochura.github.io/cv-kpi/homeworks/assig2-3.pdf)
   : Deadline: November 15 
+
+
+29 Oct
+: **Lesson 7**{: .label .label-green } **Evaluation Metrics for CV**
+  : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture7.pdf)]
+
