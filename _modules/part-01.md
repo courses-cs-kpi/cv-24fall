@@ -63,3 +63,7 @@ title: Intro
 : **Tutor 📚**{: .label .label-red}**Evaluation Metrics**
   : [[KAGGLE](https://www.kaggle.com/code/kyuriy/evaluation-metrics-for-multi-class-classification)]
 
+5 лис
+: **Tutor 📚**{: .label .label-red}**Backpropagation**
+  : [[HML1](https://www.3blue1brown.com/lessons/backpropagation)][[VIDEO1](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=2s)]
+  : [[HML2](https://www.3blue1brown.com/lessons/backpropagation-calculus)][[VIDEO2](https://www.youtube.com/watch?v=tIeHLnjs5U8)]
