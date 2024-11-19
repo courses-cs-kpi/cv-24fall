@@ -71,3 +71,12 @@ title: Intro
 12 Nov
 : **Lesson 8**{: .label .label-green } **Computer vision pipeline**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture8.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture8.pdf)]
+
+19 Nov
+: **Assignment #4**{: .label .label-dark} [**Handwritten Digit Recognition**](https://ykochura.github.io/cv-kpi/homeworks/assig4.pdf)
+  : Deadline: December 15 
+
+## Announcement
+26 Nov
+: **Lesson 9**{: .label .label-green } **Convolutional Neural Networks**
+  : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture9.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture9.pdf)]
