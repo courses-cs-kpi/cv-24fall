@@ -76,7 +76,7 @@ title: Intro
 : **Assignment #4**{: .label .label-dark} [**Handwritten Digit Recognition**](https://ykochura.github.io/cv-kpi/homeworks/assig4.pdf)
   : Deadline: December 15 
 
-## Announcement
-26 Nov
+
+26 Nov - 3 Dec
 : **Lesson 9**{: .label .label-green } **Convolutional Neural Networks**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture9.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture9.pdf)]
