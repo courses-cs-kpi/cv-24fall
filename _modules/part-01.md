@@ -80,3 +80,7 @@ title: Intro
 26 Nov - 3 Dec
 : **Lesson 9**{: .label .label-green } **Convolutional Neural Networks**
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture9.md#1)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture9.pdf)]
+  
+3 Dec
+: **Tutor 📚**{: .label .label-red}**Convolutional Neural Network from Scratch**
+  : [[VIDEO](https://www.youtube.com/watch?v=Lakz2MoHy6o)]
